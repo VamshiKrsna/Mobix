@@ -1,9 +1,10 @@
+// Lander Page 
 import Image from "next/image";
+import Lander from '@/app/Lander/lander.jsx'
 
 export default function Home() {
   return (
-    <div>
-      Hello There
-    </div>
+    //Header section 
+    <Lander />
   );
 }

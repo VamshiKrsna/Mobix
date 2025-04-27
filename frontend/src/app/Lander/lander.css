@@ -1,0 +1,6 @@
+* {
+    font: var(--font-playfair);
+    font-weight: 700;
+    font-style: italic;
+    font-size: 50px;
+}
